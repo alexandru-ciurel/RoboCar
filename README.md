@@ -115,11 +115,11 @@ different soccer games to be found on the internet (try googling “robot soccer
  The activities will end with evaluation, prize giving and refreshments
 
 ### Provided hardware
-1. 1 x RaspberryPi per student
-2. 1 x 5V power pack with USB connector to supply RaspberryPi
-3. 1 x 7.4V LIPO battery to supply motors (each group will need to manage charging, to ensure that they always have a “live” battery available for testing and competition)
-4. 1 x Self build RoboCar chassis with motors (4) and wheels (4)
-5. 1 x TB6612FNG H bridge MotorController
-5. 4 x Infra-red reflecting line-following sensors, which can be mounted on the chassis
-6. 2 x Ultrasonic sensors, used to measure distance for the ultrasound/boxes challenge
-7. DuPont cables, tie wrap, breadboards etc. as required
+• 1 x RaspberryPi per student
+• 1 x 5V power pack with USB connector to supply RaspberryPi
+• 1 x 7.4V LIPO battery to supply motors (each group will need to manage charging, to ensure that they always have a “live” battery available for testing and competition)
+• 1 x Self build RoboCar chassis with motors (4) and wheels (4)
+• 1 x TB6612FNG H bridge MotorController
+• 4 x Infra-red reflecting line-following sensors, which can be mounted on the chassis
+• 2 x Ultrasonic sensors, used to measure distance for the ultrasound/boxes challenge
+• DuPont cables, tie wrap, breadboards etc. as required
