@@ -55,12 +55,12 @@ Each team gets two tries to set a best time.
           - IP-number configuration for Client and Server and Gateway
             - Network
             - Netmask
-          - Description of the RaspberryPi installation/Configuration
-            - What is installed/configured (why and how)
-          - Description of the software modules made
-            - Purpose
-            - Source-Code in appendix
-          - Conclusion and lessons learned.
+        - Description of the RaspberryPi installation/Configuration
+          - What is installed/configured (why and how)
+        - Description of the software modules made
+          - Purpose
+        - Source-Code in appendix
+    - Conclusion and lessons learned.
 
 
 ### Requirements for the delivery/hand-in, in connection with the presentation
@@ -79,30 +79,28 @@ Each team gets two tries to set a best time.
 Rules for the competitions are as follows (in case of doubt, the teachers’ decisions are final and binding):
 
     a) Line Following
-- The RoboCar shall be able to follow a line , using onboard systems and software.
-- No external control is allowed in the line following competition.
-- Credit will be given for the speed with which the task is completed. Hint: Completing
-the course in the fastest possible time requires that the RoboCar reacts both smoothly
-and quickly
+        - The RoboCar shall be able to follow a line , using onboard systems and software.
+        - No external control is allowed in the line following competition.
+        - Credit will be given for the speed with which the task is completed. Hint: Completing the course in the fastest possible time requires that the RoboCar reacts both smoothly and quickly
 
     b) Ultrasound challenge (boxes)
-- The RoboCar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
-- The challenge is for the RoboCar to locate and push the four boxes out of the arena in the fastest time possible.
-- The winner will be the RoboCar with the fastest time.
-- Each team gets two tries to set a best time.
+        - The RoboCar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
+        - The challenge is for the RoboCar to locate and push the four boxes out of the arena in the fastest time possible.
+        - The winner will be the RoboCar with the fastest time.
+        - Each team gets two tries to set a best time.
 
     c) Remote controlled Football Game (soccer)
-- The RoboCar shall be steerable via a network interface hosted on a remote computer.
-- This shall be a Web-based (browser and HTTP) application.
-- Make the car able to interact in a remote controlled football Game. There are a lot of
-different soccer games to be found on the internet (try googling “robot soccer”). This is the first time we will try this, so the rules may not be quite set yet but
-- The football field will be 2x3 meters with sidewalls
-- The cars may use a servocontrolled “kick” device.
-- The goal will be 1 meter wide in each end of the lane
-- There will be two halfs of each 7 minutes (A third half if the score is unsettled)
-- 4 robots on each team and the teams will be set on the day of the game
+        - The RoboCar shall be steerable via a network interface hosted on a remote computer.
+        - This shall be a Web-based (browser and HTTP) application.
+        - Make the car able to interact in a remote controlled football Game. There are a lot of
+        different soccer games to be found on the internet (try googling “robot soccer”). This is the first time we will try this, so the rules may not be quite set yet but
+        - The football field will be 2x3 meters with sidewalls
+        - The cars may use a servocontrolled “kick” device.
+        - The goal will be 1 meter wide in each end of the lane
+        - There will be two halfs of each 7 minutes (A third half if the score is unsettled)
+        - 4 robots on each team and the teams will be set on the day of the game
 
-  NB: shall = mandatory
+  **NB: shall = mandatory**
 
 2. Presentations in the Class. You will present your project, including relevant reflections, and show your YouTube video. We will end the presentations with prizes for the best:
 - Teamwork
