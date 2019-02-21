@@ -76,7 +76,7 @@ Each team gets two tries to set a best time.
 
 1. Practical Competition in the Basement/Cantina/Somewhere else: Line following, ultrasound challenge and a Football competition.
 
-Rules for the competitions are as follows (in case of doubt, the teachers’ decisions are final and binding):
+    Rules for the competitions are as follows (in case of doubt, the teachers’ decisions are final and binding):
 
     a) Line Following
         - The RoboCar shall be able to follow a line , using onboard systems and software.
@@ -103,14 +103,14 @@ Rules for the competitions are as follows (in case of doubt, the teachers’ dec
   **NB: shall = mandatory**
 
 2. Presentations in the Class. You will present your project, including relevant reflections, and show your YouTube video. We will end the presentations with prizes for the best:
-- Teamwork
-- Report
-- Presentation
-- Line following
-- Ultrasound/boxes challenge
-- YouTube of the RoboCar
-- Best player of the soccer match
- The activities will end with evaluation, prize giving and refreshments
+    - Teamwork
+    - Report
+    - Presentation
+    - Line following
+    - Ultrasound/boxes challenge
+    - YouTube of the RoboCar
+    - Best player of the soccer match
+     The activities will end with evaluation, prize giving and refreshments
 
 ### Provided hardware
 - 1 x RaspberryPi per student
