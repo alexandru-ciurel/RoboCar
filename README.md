@@ -1,4 +1,4 @@
-### RoboCar
+# RoboCar
 
 Greetings!
 
@@ -7,12 +7,10 @@ This was the first semester project that we (a group of 3 people) had to do as s
 I was in charge of the programming and the developing of the Python code/algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I will leave some videos from the testings as well.
 
 
-
 ## ASSIGNMENT DESCRIPTION
 
 
-
-# Purpose of the project
+### Purpose of the project
 
 • Carry out a multidisciplinary project combining several courses from the First Semester
 • Build a RoboCar to meet the requirements
@@ -22,7 +20,7 @@ I was in charge of the programming and the developing of the Python code/algorit
 • Write a project report
 
 
-# Requirements for the RoboCar
+### Requirements for the RoboCar
 
 The project shall be completed using only electronic hardware and the car chassis provided by the college.
 Requirements: a list of items/functionality that the final product is to be able to perform
@@ -37,7 +35,7 @@ The winner will be the RoboCar with the fastest time.
 Each team gets two tries to set a best time.
 
 
-# Requirements for the process
+### Requirements for the process
 
 • Establish your team and make a work contract
 • Plan the project, show it and control it in Trello
@@ -45,7 +43,7 @@ Each team gets two tries to set a best time.
 • Keep a log or dairy
 
 
-# Requirements for the delivery/hand-in
+### Requirements for the delivery/hand-in
 
  • Project Report ( Not less than 48000 characters (This is rated as 20 normal pages but more than 20 pages are allowed)
     • You will be provided with guidance on the format and content of the report as part of the project process but it should include:
@@ -65,7 +63,7 @@ Each team gets two tries to set a best time.
             • Conclusion and lessons learned.
 
 
-# Requirements for the delivery/hand-in, in connection with the presentation
+### Requirements for the delivery/hand-in, in connection with the presentation
 
 • YouTube Video (maximum length 3 minutes)
     • This is your opportunity to “sell” your product and tell about all the great features you have built into it.
@@ -74,7 +72,7 @@ Each team gets two tries to set a best time.
     • The presentation material should be provided as an electronic presentation : .ppt, .pdf, link to Prezi or some other web-based presentation.
 
 
-# Competitions. There will be 2 competitions during the project:
+### Competitions. There will be 2 competitions during the project:
 
 1. Practical Competition in the Basement/Cantina/Somewhere else: Line following, ultrasound challenge and a Football competition.
 
@@ -116,7 +114,7 @@ different soccer games to be found on the internet (try googling “robot soccer
 • Best player of the soccer match
  The activities will end with evaluation, prize giving and refreshments
 
-# Provided hardware
+### Provided hardware
 1. 1 x RaspberryPi per student
 2. 1 x 5V power pack with USB connector to supply RaspberryPi
 3. 1 x 7.4V LIPO battery to supply motors (each group will need to manage charging, to ensure that they always have a “live” battery available for testing and competition)
