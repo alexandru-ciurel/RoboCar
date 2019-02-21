@@ -97,7 +97,7 @@ Rules for the competitions are as follows (in case of doubt, the teachers’ dec
         - The football field will be 2x3 meters with sidewalls
         - The cars may use a servocontrolled “kick” device.
         - The goal will be 1 meter wide in each end of the lane
-        - There will be two halfs of each 7 minutes (A third half if the score is unsettled)
+        - There will be two halvs of each 7 minutes (A third half if the score is unsettled)
         - 4 robots on each team and the teams will be set on the day of the game
 
   **NB: shall = mandatory**
