@@ -31,9 +31,9 @@ Complete a line following course, marked with Black tape on standard school Whit
 2) Remote control
 Build a web-based remote controller, which allows the robot car to be controlled by a browser interface from e.g. a smartphone, laptop, tablet or other device. As a minimum, commands to drive forwards, backwards, left and right, and to stop shall be provided. This feature shall be used in a football (soccer) competition.
 3) Ultrasound/boxes challenge
-The robocar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
-The challenge is for the robocar to locate and push the four boxes out of the arena in the fastest time possible.
-The winner will be the robocar with the fastest time.
+The RoboCar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
+The challenge is for the RoboCar to locate and push the four boxes out of the arena in the fastest time possible.
+The winner will be the RoboCar with the fastest time.
 Each team gets two tries to set a best time.
 
 
@@ -88,9 +88,9 @@ the course in the fastest possible time requires that the RoboCar reacts both sm
 and quickly
 
     b) Ultrasound challenge (boxes)
-• The robocar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
-• The challenge is for the robocar to locate and push the four boxes out of the arena in the fastest time possible.
-• The winner will be the robocar with the fastest time.
+• The RoboCar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
+• The challenge is for the RoboCar to locate and push the four boxes out of the arena in the fastest time possible.
+• The winner will be the RoboCar with the fastest time.
 • Each team gets two tries to set a best time.
 
     c) Remote controlled Football Game (soccer)
@@ -120,8 +120,8 @@ different soccer games to be found on the internet (try googling “robot soccer
 1. 1 x RaspberryPi per student
 2. 1 x 5V power pack with USB connector to supply RaspberryPi
 3. 1 x 7.4V LIPO battery to supply motors (each group will need to manage charging, to ensure that they always have a “live” battery available for testing and competition)
-4. 1 x Self build robocar chassis with motors (4) and wheels (4)
+4. 1 x Self build RoboCar chassis with motors (4) and wheels (4)
 5. 1 x TB6612FNG H bridge MotorController
 5. 4 x Infra-red reflecting line-following sensors, which can be mounted on the chassis
 6. 2 x Ultrasonic sensors, used to measure distance for the ultrasound/boxes challenge
-7. DuPont cables, tie wrap sand breadboards as required
+7. DuPont cables, tie wrap, breadboards etc. as required
