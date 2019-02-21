@@ -4,20 +4,20 @@ Greetings!
 
 This was the first semester project that we (a group of 3 people) had to do as students in the IT Technology AP programme at the Business Academy Aarhus. It was a pretty big project consisting of multiple parts/challenges. Below, at the end, I will leave the full description of the assignment given to us by the teachers. The project was also intended to be used in a competition vs the other students and i'm proud to say that we got the first place in both challenges (fastest timing on line following and getting the boxes out). WOOHOO!
 
-I was in charge of the programming and the devoloping of the Python code/Algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I will leave some videios from the testings aswell. 
+I was in charge of the programming and the devoloping of the Python code/Algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I will leave some videios from the testings aswell.
 
 
 
 ----------------------------------------------------------------------------
 
                         ASSIGNMENT DESCRIPTION
-  
+
 ----------------------------------------------------------------------------  
 
           RoboCar
- 
- 
- Purpose of the project
+
+
+Purpose of the project
 
 • Carry out a multidisciplinary project combining several courses from the First Semester
 • Build a RoboCar to meet the requirements
@@ -25,14 +25,15 @@ I was in charge of the programming and the devoloping of the Python code/Algorit
 • Compete with the other RoboCars
 • Present your team’s work in various forms, including a video and an oral presentation
 • Write a project report
- 
- Requirements for the RoboCar
+
+
+Requirements for the RoboCar
 
 The project shall be completed using only electronic hardware and the car chassis provided by the college.
 Requirements: a list of items/functionality that the final product is to be able to perform
-1) Line following 
+1) Line following
 Complete a line following course, marked with Black tape on standard school White Desktop as specified by the teacher
-2) Remote control 
+2) Remote control
 Build a web-based remote controller, which allows the robot car to be controlled by a browser interface from e.g. a smartphone, laptop, tablet or other device. As a minimum, commands to drive forwards, backwards, left and right, and to stop shall be provided. This feature shall be used in a football (soccer) competition.
 3) Ultrasound challenge
 The robocar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
@@ -40,15 +41,16 @@ The challenge is for the robocar to locate and push the four boxes out of the ar
 The winner will be the robocar with the fastest time.
 Each team gets two tries to set a best time.
 
-  Requirements for the process
-  
+
+Requirements for the process
+
 • Establish your team and make a work contract
 • Plan the project, show it and control it in Trello
 • Make a mid-term status Hand in see Canvas
 • Keep a log or dairy
 
-  Requirements for the delivery/hand-in
- 
+Requirements for the delivery/hand-in
+
  • Project Report ( Not less than 48000 characters (This is rated as 20 normal pages but more than 20 pages are allowed)
     • You will be provided with guidance on the format and content of the report as part of the project process but it should include:
        • Reflections on your collaboration, your planning and implementation of the project.
@@ -57,7 +59,7 @@ Each team gets two tries to set a best time.
          • A Full Wiring Diagram
          • A simple Network description
             • IP-number configuration for Client and Server and Gateway
-                • Network 
+                • Network
                 • Netmask
             • Description of the RaspberryPi installation/Configuration
                 • What is installed/configured (why and how)
@@ -65,7 +67,7 @@ Each team gets two tries to set a best time.
                 • Purpose
                 • Source-Code in appendix
             • Conclusion and lessons learned.
-  
+
   Requirements for the delivery/hand-in, in connection with the presentation
 
 • YouTube Video (maximum length 3 minutes)
@@ -73,7 +75,7 @@ Each team gets two tries to set a best time.
 • Presentation including product demonstration (15 minutes including questions)
     • This presentation will be for the whole class and every group member should take an active part in the presentation.
     • The presentation material should be provided as an electronic presentation : .ppt, .pdf, link to Prezi or some other web-based presentation.
-  
+
   The competitions during the project There will be 2 competitions:
  1. Practical Competition in the Basement/Cantina/Somewhere else
  Line following competition, Sumo Battle and a Football competition.
@@ -119,4 +121,3 @@ competition)
 chassis
 6. 2xUltrasonicdistancesensors
 7. DuPontcables,tiewrapsandbreadboards,asrequired
-  
