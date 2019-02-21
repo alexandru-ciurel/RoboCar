@@ -8,7 +8,7 @@ I was in charge of the programming and the developing of the Python code/algorit
 
 
 
-##                        ASSIGNMENT DESCRIPTION
+## ASSIGNMENT DESCRIPTION
 
 
 
