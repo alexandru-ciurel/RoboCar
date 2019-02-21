@@ -7,6 +7,13 @@ This was the first semester project that we (a group of 3 people) had to do as s
 I was in charge of the programming and the developing of the Python code/algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I will leave some videos from the testings as well.
 
 
+
+
+
+
+
+
+##
 ## ASSIGNMENT DESCRIPTION
 
 
