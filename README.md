@@ -1,4 +1,4 @@
-# RoboCar README
+### RoboCar
 
 Greetings!
 
@@ -8,16 +8,11 @@ I was in charge of the programming and the developing of the Python code/algorit
 
 
 
-----------------------------------------------------------------------------
-
-                        ASSIGNMENT DESCRIPTION
-
-----------------------------------------------------------------------------  
-
-          RoboCar
+##                        ASSIGNMENT DESCRIPTION
 
 
-Purpose of the project
+
+# Purpose of the project
 
 • Carry out a multidisciplinary project combining several courses from the First Semester
 • Build a RoboCar to meet the requirements
@@ -27,7 +22,7 @@ Purpose of the project
 • Write a project report
 
 
-Requirements for the RoboCar
+# Requirements for the RoboCar
 
 The project shall be completed using only electronic hardware and the car chassis provided by the college.
 Requirements: a list of items/functionality that the final product is to be able to perform
@@ -35,14 +30,14 @@ Requirements: a list of items/functionality that the final product is to be able
 Complete a line following course, marked with Black tape on standard school White Desktop as specified by the teacher
 2) Remote control
 Build a web-based remote controller, which allows the robot car to be controlled by a browser interface from e.g. a smartphone, laptop, tablet or other device. As a minimum, commands to drive forwards, backwards, left and right, and to stop shall be provided. This feature shall be used in a football (soccer) competition.
-3) Ultrasound challenge
+3) Ultrasound/boxes challenge
 The robocar will start in the middle of the arena, facing towards one of the ends of the arena. Four plastic boxes will be places in fixed spots around the arena. The actual positioning of the boxes will not be known for the competitors before the battle starts.
 The challenge is for the robocar to locate and push the four boxes out of the arena in the fastest time possible.
 The winner will be the robocar with the fastest time.
 Each team gets two tries to set a best time.
 
 
-Requirements for the process
+# Requirements for the process
 
 • Establish your team and make a work contract
 • Plan the project, show it and control it in Trello
@@ -50,7 +45,7 @@ Requirements for the process
 • Keep a log or dairy
 
 
-Requirements for the delivery/hand-in
+# Requirements for the delivery/hand-in
 
  • Project Report ( Not less than 48000 characters (This is rated as 20 normal pages but more than 20 pages are allowed)
     • You will be provided with guidance on the format and content of the report as part of the project process but it should include:
@@ -70,7 +65,7 @@ Requirements for the delivery/hand-in
             • Conclusion and lessons learned.
 
 
-Requirements for the delivery/hand-in, in connection with the presentation
+# Requirements for the delivery/hand-in, in connection with the presentation
 
 • YouTube Video (maximum length 3 minutes)
     • This is your opportunity to “sell” your product and tell about all the great features you have built into it.
@@ -79,7 +74,7 @@ Requirements for the delivery/hand-in, in connection with the presentation
     • The presentation material should be provided as an electronic presentation : .ppt, .pdf, link to Prezi or some other web-based presentation.
 
 
-Competitions. There will be 2 competitions during the project:
+# Competitions. There will be 2 competitions during the project:
 
 1. Practical Competition in the Basement/Cantina/Somewhere else: Line following, ultrasound challenge and a Football competition.
 
@@ -116,19 +111,17 @@ different soccer games to be found on the internet (try googling “robot soccer
 • Report
 • Presentation
 • Line following
-• Ultrasound challenge
+• Ultrasound/boxes challenge
 • YouTube of the RoboCar
 • Best player of the soccer match
  The activities will end with evaluation, prize giving and refreshments
 
- Provided hardware
-1. 1xRaspberryPi–yourown 2. Power
-1. 1x5VpowerpackwithUSBconnectortosupplyRaspberryPi
- 2. 2x9Voltrechargeablebatterytosupplymotors(eachgroupwillneedtomanage charging, to ensure that they always have a “live” battery available for testing and
- competition)
-3. 1xSelfbuildrobotcarchassiswithtwomotorsandwheels
- 4. 1xTB6612FNGHbridgeMotorController
- 5. 4xInfra-redreflectingline-followingsensors,whichcanbemountedontheShadow
- chassis
- 6. 2xUltrasonicdistancesensors
- 7. DuPontcables,tiewrapsandbreadboards,asrequired
+# Provided hardware
+1. 1 x RaspberryPi per student
+2. 1 x 5V power pack with USB connector to supply RaspberryPi
+3. 1 x 7.4V LIPO battery to supply motors (each group will need to manage charging, to ensure that they always have a “live” battery available for testing and competition)
+4. 1 x Self build robocar chassis with motors (4) and wheels (4)
+5. 1 x TB6612FNG H bridge MotorController
+5. 4 x Infra-red reflecting line-following sensors, which can be mounted on the chassis
+6. 2 x Ultrasonic sensors, used to measure distance for the ultrasound/boxes challenge
+7. DuPont cables, tie wrap sand breadboards as required
