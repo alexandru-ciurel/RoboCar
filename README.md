@@ -45,31 +45,31 @@ Each team gets two tries to set a best time.
 
 ### Requirements for the delivery/hand-in
 
- • Project Report ( Not less than 48000 characters (This is rated as 20 normal pages but more than 20 pages are allowed)
-    • You will be provided with guidance on the format and content of the report as part of the project process but it should include:
-       • Reflections on your collaboration, your planning and implementation of the project.
-       • A technical description of the full system made by the team:
-         • A Block Schematic
-         • A Full Wiring Diagram
-         • A simple Network description
-            • IP-number configuration for Client and Server and Gateway
-                • Network
-                • Netmask
-            • Description of the RaspberryPi installation/Configuration
-                • What is installed/configured (why and how)
-            • Description of the software modules made
-                • Purpose
-                • Source-Code in appendix
-            • Conclusion and lessons learned.
+• Project Report ( Not less than 48000 characters (This is rated as 20 normal pages but more than 20 pages are allowed)
+  • You will be provided with guidance on the format and content of the report as part of the project process but it should include:
+    • Reflections on your collaboration, your planning and implementation of the project.
+      • A technical description of the full system made by the team:
+        • A Block Schematic
+        • A Full Wiring Diagram
+        • A simple Network description
+          • IP-number configuration for Client and Server and Gateway
+            • Network
+            • Netmask
+          • Description of the RaspberryPi installation/Configuration
+            • What is installed/configured (why and how)
+          • Description of the software modules made
+            • Purpose
+            • Source-Code in appendix
+          • Conclusion and lessons learned.
 
 
 ### Requirements for the delivery/hand-in, in connection with the presentation
 
 • YouTube Video (maximum length 3 minutes)
-    • This is your opportunity to “sell” your product and tell about all the great features you have built into it.
+  • This is your opportunity to “sell” your product and tell about all the great features you have built into it.
 • Presentation including product demonstration (15 minutes including questions)
-    • This presentation will be for the whole class and every group member should take an active part in the presentation.
-    • The presentation material should be provided as an electronic presentation : .ppt, .pdf, link to Prezi or some other web-based presentation.
+  • This presentation will be for the whole class and every group member should take an active part in the presentation.
+  • The presentation material should be provided as an electronic presentation : .ppt, .pdf, link to Prezi or some other web-based presentation.
 
 
 ### Competitions. There will be 2 competitions during the project:
