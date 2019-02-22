@@ -6,14 +6,13 @@ This was the first semester project that we (a group of 3 people) had to do as s
 
 I was in charge of the programming and the developing of the Python code/algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I will leave some videos from the testings as well.
 
+### Description of the setup
 
+Car chassis with 4 electrical motors, right motors connected in series (same for left). Motors connected to H2 Bridge to control their states (OFF, forward, backward). The inputs (4 in total, 2 for each side) from the H Bridge were outputs for the Raspberry PI 3 Model B+ which was controlled by Python 3.6 code using the GPIO module. Raspberry PI's operating system was Raspbian Stretch Lite (Linux distro no GUI) which we setup for remote management (SSH) and also installed git for pulling or pushing code and an apache2 webserver for the webinterface. We also connected 3 infrared/light detection sensors and 1 ultrasound sensor (for measuring distance) to the Raspberry PI. 
 
-
-
-
-
-
-##
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 ## ASSIGNMENT DESCRIPTION
 
 
