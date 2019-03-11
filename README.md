@@ -1,8 +1,6 @@
 # RoboCar
 
-Greetings!
-
-This was the first semester project that we (a group of 3 people) had to do as students in the IT Technology AP programme at the Business Academy Aarhus. It was a pretty big project consisting of multiple parts/challenges. Below, at the end, I will leave the full description of the assignment given to us by the teachers. The project was also intended to be used in a competition vs the other students and i'm proud to say that we got the first place in both challenges (fastest timing on line following and getting the boxes out - [results](https://user-images.githubusercontent.com/47772881/53250000-c7c5f600-36b9-11e9-944e-56a23b9482ce.jpg))
+This was the first-semester project that we (a group of 3 people) had to do as students in the IT Technology AP programme at the Business Academy Aarhus. It was a pretty big project consisting of multiple parts/challenges. Below, in the end, I will leave the full description of the assignment given to us by the teachers. The project was also intended to be used in a competition vs the other students and in the end we actually managed to get the first place in both challenges (line following and getting the boxes out - [results](https://user-images.githubusercontent.com/47772881/53250000-c7c5f600-36b9-11e9-944e-56a23b9482ce.jpg))
 
 
 I was in charge of the programming and the developing of the Python code/algorithms for our RoboCar and the code for our Web controlling interface. Of course, to see if my programming was right i also had to test it a lot in the real world conditions and to make adjustments. I only upload the code needed to run the RoboCar for the line following and ultrasound/boxes challenges because this was my main focus in this project, and also some [videos](https://www.youtube.com/playlist?list=PLQ_rnhlgQIKJ_0Fx1rame-8r3_Qewp8hX) of the RoboCar at different stages in the project.
