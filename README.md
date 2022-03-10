@@ -1,6 +1,6 @@
 This was the first-semester project that we (a group of 3 people) had to do in the IT Technology AP programme at the Business Academy Aarhus. It was a pretty big project consisting of multiple parts/challenges. Below I will leave the full description of the assignment given to us by the teachers. The project was also intended to be used in a competition with our colleagues and in the end, we managed to get the first place in both challenges (line following and getting the boxes out).
 
-My main focuses in this project were the programming and the developing of the Python code/algorithms. Considering that this was a real-world environment project/goal, I've developed the code alongside thoroughly testing the RoboCar which resulted in a lot of adjustments being made to the whole system and code. Some [videos](https://www.youtube.com/playlist?list=PLQ_rnhlgQIKJ_0Fx1rame-8r3_Qewp8hX) of the RoboCar at different stages in the project.
+My main focuses in this project were the programming and the developing of the Python code/algorithms. Considering that this was a real-world environment project/goal, I've developed the code alongside thoroughly testing the RoboCar which resulted in a lot of adjustments being made to the whole system and code. Some [videos](https://www.youtube.com/watch?v=W8-LDjPn1Nw&list=PLQ_rnhlgQIKJ_0Fx1rame-8r3_Qewp8hX&index=4) of the RoboCar at different stages in the project.
 
 ### Description of the setup
 
